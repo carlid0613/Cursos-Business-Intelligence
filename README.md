@@ -1,5 +1,3 @@
-# Cursos-Business-Intelligence
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
